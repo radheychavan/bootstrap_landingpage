@@ -1,0 +1,215 @@
+*{
+    font-family: "Inter", sans-serif;
+}
+.bar{
+    margin: 90px;
+}
+.whatsappbtn{
+    border: 1px solid #27ae60;
+    padding: 10px 18px;
+     color: #27ae60;
+     font-size: 16px;
+}
+.whatsappbtn i{
+    color: #27ae60;
+}
+.whatsappbtn:hover{
+    border: 1px solid #27ae60;
+}
+.call{
+    color: white;
+     padding: 10px 18px;
+    background:linear-gradient(to right,rgba(10, 206, 254, 1),rgba(38, 153, 251, 1))
+
+}
+.whatsappbtn,.call{
+    padding: 7px,15px;
+    font-size: 14px;
+}
+.bannerContent h1{
+font-size: 52px;
+font-weight: 700px;
+}
+.bannerContent h1 span{
+    color: rgba(38, 153, 251, 1);
+}
+.bannerContent p{
+    font-size: 22px;
+}
+.bannerContent ul{
+    list-style: none;
+}
+.bannerContent ul li{
+    font-size: 22px;
+}
+.bannerContent ul li i{
+   color:rgba(38, 153, 251, 1); ;
+} 
+.bannerContentBtn button:first-child{
+    color: white;
+    background: linear-gradient(to right,rgba(10, 206, 254, 1),rgba(38, 153, 251, 1));
+    padding: 10px;
+}
+.bannerForm{
+    padding: 40px;
+    border-radius: 10px;
+}
+.bannerForm h3{
+    font-size: 18px;
+    font-weight: 700;
+}
+.bannerForm button{
+    width: 100%;
+    padding: 10px;
+  background: linear-gradient(to right,rgba(10, 206, 254, 1),rgba(38, 153, 251, 1));
+  border: none;
+color: white;
+}
+.counterSection h2{
+font-size: 30px;
+font-weight: 700;
+color: rgba(38, 153, 251, 1);
+}
+.highlights-section {
+    background-color: rgba(247, 250, 255, 1);
+}
+.highlights-section h2{
+    color: rgba(10, 33, 52, 1);
+font-size: 36px;
+font-weight: 700;
+}
+.highlights-section p{
+    color: rgba(10, 33, 52, 1);
+font-size: 18px;
+font-weight: 400;
+}
+.highlightsItem h4{
+    font-size: 20px;
+    font-weight: 600;
+}
+.highlightsItem p{
+    font-size: 15px;
+}
+.bannerContentBtn1 button{
+    margin-top: 10px;
+    font-size: 18px;
+    border: none;
+    border-radius: 10px;
+    width: 20%;
+    padding: 20px 0px;
+     background: linear-gradient(to right,rgba(10, 206, 254, 1),rgba(38, 153, 251, 1));
+     color: white;
+}
+.highlights-section1 {
+    background-color: rgba(247, 250, 255, 1);
+}
+.btn{
+      margin-top: 20px;
+    border: none;
+    font-size: 13px;
+    border-radius: 10px;
+    width: 25%;
+    padding: 10px 0px;
+     background: linear-gradient(to right,rgba(10, 206, 254, 1),rgba(38, 153, 251, 1));
+     color: white;
+}
+.tabItemContent ul{
+    list-style: none;
+}
+.highlights-section2{
+    background-color: rgba(247, 250, 255, 1);
+}
+.ssCert{
+     background-color: white;
+     border-radius: 10px;
+}
+
+.ssCert h4{
+     font-size: 20px;
+     font-weight: 600;
+}
+.ssCert p{
+     font-size: 16px;
+}
+
+.getCertificate{
+     background-color: #F7FAFF;
+}
+
+.getCertificate h2{
+     font-size: 35px;
+}
+.getCertificate p{
+     font-size: 18px;
+}
+
+.firstImg{  
+     position: relative;  
+     top: -70px;
+     left: 0%;
+    
+}
+.secondImg{
+     position: absolute; 
+     top: 1970px;
+     left: 686px;
+
+}
+.bButton{
+    padding: 10px 25px;
+    font-size: 20px;
+    background: linear-gradient(to right,rgba(10, 206, 254, 1),rgba(38, 153, 251, 1));
+    border-radius: 10px;
+    border: none;
+    color: white;
+    margin-right: 10px;
+}
+.b1 {
+     padding: 10px 25px;
+    font-size: 20px;
+    background: linear-gradient(to right,rgba(10, 206, 254, 1),rgba(38, 153, 251, 1));
+    border-radius: 10px;
+    border: none;
+    color: white;
+    margin-right: 10px;
+}
+.con{
+    width: 100%;
+    margin-left: 10px;
+}
+.btu{
+    width: 100%;
+    background-color: rgba(10, 37, 64, 1);
+}
+.clsec{
+    background-color: rgba(10, 37, 64, 1);
+}
+.p1{
+    color: white;
+}
+.l1{
+    width: 100%;
+}
+.p2{
+    color: white;
+}
+.box{
+    display: flex;
+    gap: 20px;
+    margin: 20px 0px;
+}
+.boxb{
+    background-color: linear-gradient(to right,rgba(10, 206, 254, 1),rgba(38, 153, 251, 1));
+}
+.bt2{
+    padding-top: 16px;
+    padding-right: 48px;
+    padding-bottom: 16px;
+    padding-left: 48px;
+    border-radius: 10px;
+    border: none;
+    color: black;
+}
+.ba{
+    width: 100%;
+}
